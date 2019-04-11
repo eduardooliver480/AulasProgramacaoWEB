@@ -16,7 +16,7 @@ section img {
 }
 
 header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgba(48, 5, 238, 0.945);
     padding-top: 1em;
     padding-bottom: 1em;
     position: fixed;
@@ -29,7 +29,7 @@ header ul {
 }
 
 header li a {
-    color: #99A0B0;
+    color: rgba(10, 141, 39, 0.884);
     font-weight: lighter;
     text-transform: uppercase;
 }
@@ -84,7 +84,7 @@ section {
 
 .identificacao {
     background-image:url("../imagens/pink.jpg") ;
-    color: #FCFCFD;
+    color: rgba(219, 16, 141, 0.904);
     padding: 10em 2em 7em;
 }
 
@@ -105,17 +105,17 @@ section h3 {
 }
 
 header li a {
-    color: #99A0B0;
+    color: rgba(236, 10, 10, 0.938);
     font-weight: lighter;
 }
 
 .escuras {
-    background-color: #2B313E;
-    color: #FCFCFD;
+    background-color: rgba(241, 10, 10, 0.76);
+    color: rgba(14, 81, 206, 0.938);
 }
 
 .claras {
-    background-color: #FCFCFD;
+    background-color: rgba(206, 161, 12, 0.932);
     color: #2B313E;
 }
 
@@ -154,14 +154,14 @@ header li a {
 }
 
 #sobre p.bio {
-    color: #579ff0;
+    color: #e75e0fee;
     font-size: 1.5em;
     margin: 1em;
     width: 50%;
 }
 
 .cor{
-    color: rgba(52, 214, 19, 0.842)
+    color: rgb(9, 245, 28)
 }
 
 #sobre {
